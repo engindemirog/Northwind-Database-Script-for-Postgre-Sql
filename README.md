@@ -1,4 +1,4 @@
-*** Run SQL script on Linux ***
+***Run SQL script on Linux***
 
 ```
 sudo -u postgres psql
